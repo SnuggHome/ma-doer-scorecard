@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1005px" height="816px" viewBox="0 0 1005 816" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Scorecard Page 2 - v.6.0@3x</title>
+    <g id="Scorecard-Page-2---v.6.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1005" height="816"></rect>
+        <g id="Info" transform="translate(32.000000, 42.000000)">
+            <g id="About">
+                <g id="Massachusetts" transform="translate(0.000000, 27.000000)">
+                    <text id="The-Massachusetts-Ho" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill="#444D4A">
+                        <tspan x="0" y="35">The Massachusetts Home Energy Scorecard (MA Scorecard) is a tool to assess a home’s </tspan>
+                        <tspan x="0" y="49">expected energy use, cost, and carbon footprint. A lower energy use generally means that a </tspan>
+                        <tspan x="0" y="63">home has a smaller carbon footprint and lower energy costs. The MA Scorecard also allows for </tspan>
+                        <tspan x="0" y="77">comparisons of one home’s energy use and carbon footprint. This is because the energy use </tspan>
+                        <tspan x="0" y="91">and carbon footprint are calculated without the influence of occupant behavior, which can vary </tspan>
+                        <tspan x="0" y="105">depending on things like whether there are teenagers in the house who take long hot showers </tspan>
+                        <tspan x="0" y="119">and often leave lights on when they are not in a room.</tspan>
+                    </text>
+                    <text id="YOUR-MASSACHUSETTS-H" font-family="OpenSans-Bold, Open Sans" font-size="15" font-weight="bold" fill="#222222">
+                        <tspan x="0" y="16">YOUR MASSACHUSETTS HOME ENERGY SCORECARD</tspan>
+                    </text>
+                </g>
+                <g id="Home-Energy-Use" transform="translate(0.000000, 175.000000)">
+                    <text id="The-Home-Energy-Use" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill="#444D4A">
+                        <tspan x="0" y="32">The Home Energy Use (HEU) calculation is based on a home’s size, design, insulation levels, air </tspan>
+                        <tspan x="0" y="46">leakage, heating and cooling systems, major appliances, lighting, hot water heating, and any </tspan>
+                        <tspan x="0" y="60">electricity produced onsite by solar PV. The HEU number is “normalized” in the sense that </tspan>
+                        <tspan x="0" y="74">occupant behavior, which can vary, is taken out of the calculation. A home’s actual energy use </tspan>
+                        <tspan x="0" y="88">will vary with number of occupants, occupant behavior, weather, and changes to the home.</tspan>
+                    </text>
+                    <text font-family="OpenSans-Bold, Open Sans" font-size="12" font-weight="bold" fill="#333333">
+                        <tspan x="0" y="13">Home Energy Use</tspan>
+                    </text>
+                </g>
+                <text id="For-additional-detai" font-family="OpenSans-BoldItalic, Open Sans" font-size="12" font-style="italic" font-weight="bold" fill="#222222">
+                    <tspan x="0" y="305">For additional details on the recommended energy improvements and </tspan>
+                    <tspan x="0" y="322">savings estimates for your home, please refer to your Home Energy </tspan>
+                    <tspan x="0" y="339">Assessment Report.</tspan>
+                </text>
+                <text id="More-Information" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500" fill="#444D4A">
+                    <tspan x="0" y="15">MORE INFORMATION</tspan>
+                </text>
+            </g>
+            <g id="Useful-Terminology" transform="translate(0.000000, 367.000000)">
+                <g id="Btu" transform="translate(0.000000, 0.000000)">
+                    <text id="Useful-Terminology:" font-family="OpenSans-Bold, Open Sans" font-size="12" font-weight="bold" fill="#333333">
+                        <tspan x="0" y="13">Useful Terminology: Btu</tspan>
+                    </text>
+                    <text id="A-Btu,-or-British-Th" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill="#444D4A">
+                        <tspan x="0" y="32">A Btu, or British Thermal Unit, is a measurement of the heat/energy content of fuel. mmBtu </tspan>
+                        <tspan x="0" y="46">stands for one million Btus. One Btu ~ the energy produced by a single wooden match. One </tspan>
+                        <tspan x="0" y="60">million Bts ~ the energy produced by 7 gallons of gasoline used in a typical car.</tspan>
+                    </text>
+                </g>
+                <g id="Carbon-Footprint" transform="translate(0.000000, 89.000000)">
+                    <text font-family="OpenSans-Bold, Open Sans" font-size="12" font-weight="bold" fill="#333333">
+                        <tspan x="0" y="13">Carbon Footprint</tspan>
+                    </text>
+                    <text id="The-greenhouse-gas-e" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill="#444D4A">
+                        <tspan x="0" y="32">The greenhouse gas emissions associated with a home’s energy use impact the environment. </tspan>
+                        <tspan x="0" y="46">The Carbon Footprint calculation is based on the carbon emissions for the annual amounts, </tspan>
+                        <tspan x="0" y="60">types, and sources of fuels used in your home. Measurement is in tons of carbon dioxide per </tspan>
+                        <tspan x="0" y="74">year (tons/year). One ton = 2000 miles driven by one car (typical 21 mpg car.)</tspan>
+                    </text>
+                    <text id="For-electricity,-car" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill="#444D4A">
+                        <tspan x="0" y="108">For electricity, carbon emissions are based on electricity consumed onsite and the mix of fuel </tspan>
+                        <tspan x="0" y="122">sources used in the region to generate that electricity at the time of this report.</tspan>
+                    </text>
+                    <text id="For-fossil-fuel-used" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill="#444D4A">
+                        <tspan x="0" y="156">For fossil fuel used in heating and hot water, carbon emissions are based on the therms of </tspan>
+                        <tspan x="0" y="170">natural gas or gallons of oil or propane used in the home.</tspan>
+                    </text>
+                </g>
+                <g id="Average" transform="translate(0.000000, 274.000000)">
+                    <text id="Average-Home-in-Your" font-family="OpenSans-Bold, Open Sans" font-size="12" font-weight="bold" fill="#333333">
+                        <tspan x="0" y="13">Average Home in Your Area</tspan>
+                    </text>
+                    <text id="The-“Average-Home-in" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal" fill="#444D4A">
+                        <tspan x="0" y="32">The “Average Home in Your Area” refers to the average energy use or carbon footprint of all the </tspan>
+                        <tspan x="0" y="46">homes in Massachusetts </tspan>
+                        <tspan x="117.260742" y="46" font-family="OpenSans-Italic, Open Sans" font-style="italic">before</tspan>
+                        <tspan x="145.395508" y="46"> implementation of any energy improvements. The average may </tspan>
+                        <tspan x="0" y="60">vary slightly over time as homes become more efficient due to improvements.</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="Stacked-Group-2" transform="translate(516.000000, 245.000000)">
+            <g id="Group-2" transform="translate(0.000000, 190.000000)">
+                <rect id="Rectangle" stroke="#C5C5C5" fill="#EEEEEE" x="0.5" y="0.5" width="457" height="315" rx="4"></rect>
+                <text id="This-content-in-this" font-family="OpenSans, Open Sans" font-size="12" font-weight="normal" line-spacing="21">
+                    <tspan x="24" y="71" fill="#444D4A">This content in this section is customizable by the scorecard originator. It </tspan>
+                    <tspan x="24" y="92" fill="#444D4A">will vary from one program to the next.</tspan>
+                    <tspan x="24" y="113" fill="#444D4A"></tspan>
+                    <tspan x="24" y="134" fill="#444D4A">Customers might be eligible for rebates through the Mass Save program </tspan>
+                    <tspan x="24" y="155" fill="#444D4A">for installing equipment that meets the criteria listed in the table below. </tspan>
+                    <tspan x="24" y="176" fill="#444D4A">For more details and information on how to access those rebates, visit </tspan>
+                    <tspan x="24" y="197" fill="#0366D6">https://www.masssave.com/en/saving/residential-rebates/.</tspan>
+                </text>
+                <text id="CUSTOM-ORIGINATOR-SE" font-family="OpenSans-Semibold, Open Sans" font-size="17.7651515" font-weight="500" fill="#333333">
+                    <tspan x="23" y="41">CUSTOM ORIGINATOR SECTION</tspan>
+                </text>
+                <text id="Also-you-could-be-el" font-family="OpenSans, Open Sans" font-size="12" font-weight="normal" line-spacing="23" fill="#444D4A">
+                    <tspan x="24" y="246">Also you could be eligible for a $300 Mass Clean Energy Center rebate for </tspan>
+                    <tspan x="24" y="269">a SEER 18 Mini Split HP.. (more Mass CEC rebates coming)</tspan>
+                </text>
+            </g>
+            <g id="Title-+-Description" transform="translate(10.000000, 0.000000)"></g>
+        </g>
+        <text id="U.S.-DOE-Home-Energy" font-family="OpenSans-Bold, Open Sans" font-size="15" font-weight="bold" fill="#222222">
+            <tspan x="516" y="85">U.S. DOE HOME ENERGY SCORE</tspan>
+        </text>
+        <text id="Scorecard-Details" font-family="OpenSans-Bold, Open Sans" font-size="15" font-weight="bold" fill="#222222">
+            <tspan x="516" y="271">SCORECARD DETAILS</tspan>
+        </text>
+        <text id="The-U.S.-Department" font-family="OpenSans, Open Sans" font-size="10" font-weight="normal">
+            <tspan x="518" y="109" fill="#444D4A">The U.S. Department of Energy's (DOE) Home Energy Score uses a 10-point scale to describe a </tspan>
+            <tspan x="518" y="123" fill="#444D4A">home’s level of energy efficiency, where 10 is the most efficient. </tspan>
+            <tspan x="518" y="137" fill="#444D4A"></tspan>
+            <tspan x="518" y="151" fill="#444D4A">The DOE assesses the energy efficiency of a home based on its structure, heating &amp; cooling </tspan>
+            <tspan x="518" y="165" fill="#444D4A">and hot water systems. </tspan>
+            <tspan x="518" y="179" fill="#444D4A">Note that Massachusetts also includes home size, major appliances, lighting, and any </tspan>
+            <tspan x="518" y="193" fill="#444D4A">electricity produced onsite by solar PV to calculate the home energy use score. </tspan>
+            <tspan x="518" y="207" fill="#444D4A"></tspan>
+            <tspan x="518" y="221" font-family="OpenSans-Bold, Open Sans" font-weight="bold" fill="#444D4A">Learn more at </tspan>
+            <tspan x="591.144531" y="221" font-family="OpenSans-Bold, Open Sans" font-weight="bold" fill="#0366D6">HomeEnergyScore.gov</tspan>
+            <tspan x="701.847656" y="221" font-family="OpenSans-Bold, Open Sans" font-weight="bold" fill="#444D4A"></tspan>
+        </text>
+        <g id="Table" transform="translate(516.000000, 283.000000)">
+            <g id="table/row-content">
+                <text id="Col-1" font-family="OpenSans-Semibold, Open Sans" font-size="11.4204545" font-weight="500" fill="#3E3E3F">
+                    <tspan x="6.36111111" y="13.4104478">Originator</tspan>
+                </text>
+                <text id="Col-2" font-family="OpenSans, Open Sans" font-size="11.4204545" font-weight="normal" fill="#3E3E3F">
+                    <tspan x="335.896063" y="13.4104478">ENE for Belmont Light</tspan>
+                </text>
+                <line x1="0" y1="19.5" x2="458" y2="19.5" id="Path-2-Copy" stroke="#D4D4D4" stroke-width="1.26893939" stroke-linecap="round" stroke-dasharray="2.537878787878788,2.537878787878788"></line>
+            </g>
+            <g id="table/row-content" transform="translate(0.000000, 22.000000)">
+                <text id="Col-1" font-family="OpenSans-Semibold, Open Sans" font-size="11.4204545" font-weight="500" fill="#3E3E3F">
+                    <tspan x="6.36111111" y="13.4104478">Software</tspan>
+                </text>
+                <text id="Col-2" font-family="OpenSans, Open Sans" font-size="11.4204545" font-weight="normal" fill="#3E3E3F">
+                    <tspan x="368.601613" y="13.4104478">Snugg Pro v. 6.0</tspan>
+                </text>
+                <line x1="0" y1="19.5" x2="458" y2="19.5" id="Path-2-Copy" stroke="#D4D4D4" stroke-width="1.26893939" stroke-linecap="round" stroke-dasharray="2.537878787878788,2.537878787878788"></line>
+            </g>
+            <g id="table/row-content" transform="translate(0.000000, 44.000000)">
+                <text id="Col-1" font-family="OpenSans-Semibold, Open Sans" font-size="11.4204545" font-weight="500" fill="#3E3E3F">
+                    <tspan x="6.36111111" y="13.4104478">Scorecard Version</tspan>
+                </text>
+                <text id="Col-2" font-family="OpenSans, Open Sans" font-size="11.4204545" font-weight="normal" fill="#3E3E3F">
+                    <tspan x="436.812062" y="13.4104478">3.0</tspan>
+                </text>
+                <line x1="0" y1="19.5" x2="458" y2="19.5" id="Path-2-Copy" stroke="#D4D4D4" stroke-width="1.26893939" stroke-linecap="round" stroke-dasharray="2.537878787878788,2.537878787878788"></line>
+            </g>
+            <g id="table/row-content" transform="translate(0.000000, 88.000000)">
+                <text id="Col-1" font-family="OpenSans-Semibold, Open Sans" font-size="11.4204545" font-weight="500" fill="#3E3E3F">
+                    <tspan x="6.36111111" y="13.4104478">Assessment Date</tspan>
+                </text>
+                <text id="Col-2" font-family="OpenSans, Open Sans" font-size="11.4204545" font-weight="normal" fill="#3E3E3F">
+                    <tspan x="392.284557" y="13.4104478">09/12/2020</tspan>
+                </text>
+                <line x1="0" y1="19.5" x2="458" y2="19.5" id="Path-2-Copy" stroke="#D4D4D4" stroke-width="1.26893939" stroke-linecap="round" stroke-dasharray="2.537878787878788,2.537878787878788"></line>
+            </g>
+            <g id="table/row-content" transform="translate(0.000000, 66.000000)">
+                <text id="Col-1" font-family="OpenSans-Semibold, Open Sans" font-size="11.4204545" font-weight="500" fill="#3E3E3F">
+                    <tspan x="6.36111111" y="13.4104478">Home Energy Score version</tspan>
+                </text>
+                <text id="Col-2" font-family="OpenSans, Open Sans" font-size="11.4204545" font-weight="normal" fill="#3E3E3F">
+                    <tspan x="407.653099" y="13.4104478">2020.1.0</tspan>
+                </text>
+                <line x1="0" y1="19.5" x2="458" y2="19.5" id="Path-2-Copy" stroke="#D4D4D4" stroke-width="1.26893939" stroke-linecap="round" stroke-dasharray="2.537878787878788,2.537878787878788"></line>
+            </g>
+        </g>
+    </g>
+</svg>
